@@ -1,6 +1,7 @@
 # BHT-ARIMA
 
-A tensor-based algorithm extended from ARIMA algorithm  
+A tensor decomposition-based time series forecasting algorithm, which tactically incorporates the unique advantages of Hankelization, low-rank Tucker decomposition and ARIMA into a unified framework.  
+More details (including parameter settings) refers to the original paper.
 
 ### Paper
 - **"Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting", AAAI-20**
